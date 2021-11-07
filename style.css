@@ -182,7 +182,7 @@
     margin-right: 0;
     margin-top: 1em;
     orphans: 2;
-    text-align: left;
+    text-align: justify;
     text-indent: 0;
     widows: 2
     }
@@ -208,7 +208,7 @@
     margin-right: 0;
     margin-top: 0;
     orphans: 2;
-    text-align: left;
+    text-align: justify;
     text-indent: 0;
     widows: 2
     }
